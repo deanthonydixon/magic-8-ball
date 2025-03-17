@@ -12,5 +12,5 @@ It integrates **AWS Lambda, DynamoDB, and API Gateway**, with a **React frontend
 ## 🛠️ Setup Guide
 
 ### **1️⃣ Clone the Repository**
-git clone https://github.com/yourusername/magic-8-ball-api.git
+git clone 
 cd magic-8-ball-ap
